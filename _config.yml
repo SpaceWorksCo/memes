@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Spacecoin Memes
+description: A collection of memes created by the Spacecoin (SPACE) community.
+github:
+  is_project_page: false
