@@ -1,7 +1,3 @@
-# Spacecoin Memes
-
-A collection of memes created by the Spacecoin (SPACE) community.
-
 ![Ancient Aliens](/images/ancient_aliens.jpg)
 
 ![Toy Story](/images/toy_story.jpg)
